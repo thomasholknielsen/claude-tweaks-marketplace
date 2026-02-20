@@ -12,8 +12,8 @@
     {
       "name": "claude-tweaks",
       "source": {
-        "source": "github",
-        "repo": "thomasholknielsen/claude-tweaks"
+        "source": "url",
+        "url": "https://github.com/thomasholknielsen/claude-tweaks.git"
       },
       "description": "A collection of useful skills and tweaks for Claude Code",
       "version": "1.0.0",
