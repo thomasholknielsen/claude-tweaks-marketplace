@@ -1,0 +1,27 @@
+{
+  "name": "claude-tweaks-marketplace",
+  "owner": {
+    "name": "Thomas Holk Nielsen",
+    "email": "thomas@holknielsen.com"
+  },
+  "metadata": {
+    "description": "Public marketplace for claude-tweaks plugins",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "claude-tweaks",
+      "source": {
+        "source": "github",
+        "repo": "thomasholknielsen/claude-tweaks"
+      },
+      "description": "A collection of useful skills and tweaks for Claude Code",
+      "version": "1.0.0",
+      "author": {
+        "name": "Thomas Holk Nielsen"
+      },
+      "license": "MIT",
+      "keywords": ["tweaks", "utilities", "productivity"]
+    }
+  ]
+}
