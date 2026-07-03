@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "Public marketplace for claude-tweaks plugins",
-    "version": "2.3.0"
+    "version": "2.4.0"
   },
   "plugins": [
     {
@@ -16,7 +16,7 @@
         "url": "https://github.com/thomasholknielsen/claude-tweaks.git"
       },
       "description": "A structured workflow system for Claude Code — from idea capture through build, review, and wrap-up. Includes an LLM-as-judge recurring recon sweep, browser automation, and QA pipeline.",
-      "version": "5.0.0",
+      "version": "5.1.0",
       "author": {
         "name": "Thomas Holk Nielsen"
       },
