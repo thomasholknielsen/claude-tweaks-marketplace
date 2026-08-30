@@ -29,6 +29,25 @@
         "planning",
         "code-review"
       ]
+    },
+    {
+      "name": "hermes-tweet",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Xquik-dev/hermes-tweet.git"
+      },
+      "description": "Prepare read-first X/Twitter research and approval-gated action workflows for Hermes Agent.",
+      "version": "0.1.11",
+      "author": {
+        "name": "Xquik"
+      },
+      "license": "MIT",
+      "keywords": [
+        "hermes-agent",
+        "twitter",
+        "social-research",
+        "workflow"
+      ]
     }
   ]
 }
